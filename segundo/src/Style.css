@@ -1,0 +1,25 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.header {
+
+height: 20vh;
+display: flex;
+display: row;
+justify-content:center ;
+color: rgb(255, 0, 0);
+background-color:rgb(rgb(238, 255, 0)) ;
+align-items: center;
+}
+
+
+.header img {
+
+width: 60px;
+height:60px ;
+
+
+}
