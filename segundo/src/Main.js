@@ -3,7 +3,7 @@ function Main () {
 return (
 
 
-<div>
+<div className= "Main">
 
 
 <h4>Bem-Estar</h4>

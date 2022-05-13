@@ -1,13 +1,14 @@
 function Footer(){
  return(
-<div>    
+<div className="Footer">     
 
 <h2>
 Consulte a Programaçao correta
 <a href="http://www.sp.senac.br/tatuape">
 sp.senac.br/tatuape
-
 </a>
+
+Escaneie QR code
 </h2>
 
 
